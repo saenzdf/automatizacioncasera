@@ -7,8 +7,8 @@
 #include <CronAlarms.h>
 #include <WiFiUdp.h>
 
-#define WIFI_SSID "Montecillo1"
-#define WIFI_PASSWORD "abcdef0123456789abcdef"
+#define WIFI_SSID "wifi provider"
+#define WIFI_PASSWORD "your password"
 
 // Raspberri Pi Mosquitto MQTT Broker
 #define MQTT_HOST IPAddress(34, 122, 20, 41)
